@@ -1,0 +1,15 @@
+{
+  "name": "craigslist tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Robert Hurst <robertwhurst@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "milieu": "^1.0.1"
+  }
+}
